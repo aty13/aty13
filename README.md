@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aty13
-- 🌱 I’m currently learning Java/Spring Boot and Swift/SwiftUI
+- 🌱 I’m currently learn Swift/SwiftUI
 - 💞️ I’m looking to collaborate on some real projects
 
 <!---
