@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @aty13
-- 🌱 I’m currently learn Swift/SwiftUI
-- 💞️ I’m looking to collaborate on some real projects
+- 👋 Hi, I’m Artur @aty13
+- 🌱 I build iOS apps for fun and work as a Data Engineer
 
 <!---
 aty13/aty13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
